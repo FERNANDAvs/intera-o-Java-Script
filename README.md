@@ -1,2 +1,2 @@
-# intera-o-Java-Script
+# interação-Java-Script
 aprendendo JavaScript
